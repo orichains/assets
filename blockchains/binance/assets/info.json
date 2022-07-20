@@ -1,0 +1,11 @@
+{
+	"name": "ORICHAINs",
+    "website": "https://orichains.tech",
+    "description": "ORICHAINs is a Defi Project in partnership with Binance.",
+    "explorer": "https://bscscan.com/token/0x802f4d7895F4B3C11584b2C55A3b89B1229870B0",
+    "type": "BEP20",
+    "symbol": "ORIS",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x802f4d7895F4B3C11584b2C55A3b89B1229870B0"
+}
